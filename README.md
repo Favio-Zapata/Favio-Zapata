@@ -1,1 +1,11 @@
-Hello there!
+Hello there! My name is **Favio Zapata-Moran**. I am a **business systems analyst** for the **UCR Administrative Services Strategic Executive Team (ASSET)**
+
+I build Tableau Dashboards and data solutions across the ASSET portfolio, primarily supporting PB&A, Facilities Services, and Planning, Design, and Construction.
+
+**Tools: SQL, Python, Tableau, Smartsheet**
+
+### Portfolio Projects:
+
+Highlight Project
+Customer Facing
+ETL
