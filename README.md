@@ -1,3 +1,4 @@
+![Banner](Github_Portfolio_Banner.png)
 ## Hello there! I'm Favio Zapata-Moran. 
 ### A Business Systems Analyst at UCR Administrative Services Strategic Executive Team (ASSET)
 #### I build Tableau Dashboards and data solutions across the ASSET portfolio, primarily supporting PB&A, Facilities Services, and Planning, Design, and Construction.
