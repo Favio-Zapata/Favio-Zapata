@@ -7,6 +7,8 @@ I build Tableau Dashboards and data solutions across the ASSET portfolio, primar
 ### Portfolio Projects:
 
 **1. [Highlight Project](https://github.com/Favio-Zapata/HVAC-Filter-Analysis):** Facilities Services Air Filter Vendor Bid Analysis
+<br>
 **2. [Customer Facing Project](https://github.com/Favio-Zapata/UCR-Planning-Design-and-Construction-Capital-Projects-Dashboard):** Planning, Design, and Construction Capital Projects Dashboard
+<br>
 **3. [ETL Project](https://github.com/Favio-Zapata/Recharge-Recon):** Planning, Budget, and Administration Payroll Recharge/Transfer Dashboard  
 
