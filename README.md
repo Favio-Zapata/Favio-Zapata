@@ -1,6 +1,6 @@
-### Hello there! My name is **Favio Zapata-Moran**. 
+## Hello there! I'm **Favio Zapata-Moran**. 
 
-I am a **business systems analyst** for the **UCR Administrative Services Strategic Executive Team (ASSET)**
+### **Business systems analyst** at **UCR Administrative Services Strategic Executive Team (ASSET)**
 
 I build Tableau Dashboards and data solutions across the ASSET portfolio, primarily supporting PB&A, Facilities Services, and Planning, Design, and Construction.
 
